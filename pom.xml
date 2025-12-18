@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>korit.gov.JavaStudy</artifactId>
+    <artifactId>korit_gov_java_study</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/korit.gov.JavaStudy.iml" filepath="$PROJECT_DIR$/korit.gov.JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/korit_gov_java_study.iml" filepath="$PROJECT_DIR$/korit_gov_java_study.iml" />
     </modules>
   </component>
 </project>
